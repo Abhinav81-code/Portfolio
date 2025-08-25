@@ -1,7 +1,7 @@
 # 🌐 My Portfolio
 
 🚀 Check out my live portfolio website here:  
-👉 [Live Portfolio Website](https://portofolio-update-2-jtp8xjar8-abhinavm7666-1062s-projects.vercel.app)
+👉 [Live Portfolio Website](https://portofolio-update-2-3k5sheqa4-abhinavm7666-1062s-projects.vercel.app/)
 
 ---
 
